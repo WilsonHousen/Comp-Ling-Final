@@ -1,0 +1,14 @@
+@RELATION author_detection
+
+
+@ATTRIBUTE avSentenceLength numeric
+@ATTRIBUTE avWordLength numeric
+@ATTRIBUTE lexical_diversity numeric
+@ATTRIBUTE numPronouns numeric
+@ATTRIBUTE unique_words numeric
+@ATTRIBUTE word_count numeric
+@ATTRIBUTE author {"James Joyce"}
+
+
+@DATA
+57.6098972708,4.73196350996,0.168930624384,529898.0,44758.0,264949.0,"James Joyce"

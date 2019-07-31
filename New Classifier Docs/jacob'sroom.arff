@@ -1,0 +1,14 @@
+@RELATION author_detection
+
+
+@ATTRIBUTE avSentenceLength numeric
+@ATTRIBUTE avWordLength numeric
+@ATTRIBUTE lexical_diversity numeric
+@ATTRIBUTE numPronouns numeric
+@ATTRIBUTE unique_words numeric
+@ATTRIBUTE word_count numeric
+@ATTRIBUTE author {"Virginia Woolf"}
+
+
+@DATA
+72.7440713783,4.73566084788,0.221486724366,109072.0,12079.0,54536.0,"Virginia Woolf"

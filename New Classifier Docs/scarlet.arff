@@ -1,0 +1,14 @@
+@RELATION author_detection
+
+
+@ATTRIBUTE avSentenceLength numeric
+@ATTRIBUTE avWordLength numeric
+@ATTRIBUTE lexical_diversity numeric
+@ATTRIBUTE numPronouns numeric
+@ATTRIBUTE unique_words numeric
+@ATTRIBUTE word_count numeric
+@ATTRIBUTE author {"Arthur Conan Doyle"}
+
+
+@DATA
+85.5118715084,4.61098450319,0.198336371923,87760.0,8703.0,43880.0,"Arthur Conan Doyle"
